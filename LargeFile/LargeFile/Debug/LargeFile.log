@@ -1,4 +1,0 @@
-﻿  LargeFile.cpp
-c:\users\wallace\source\repos\largefile\largefile\largefile.cpp(44): warning C4101: 'desport': unreferenced local variable
-c:\users\wallace\source\repos\largefile\largefile\largefile.cpp(44): warning C4101: 'sourceport': unreferenced local variable
-  LargeFile.vcxproj -> C:\Users\Wallace\source\repos\LargeFile\Debug\LargeFile.exe
