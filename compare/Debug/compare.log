@@ -1,0 +1,4 @@
+﻿  HK.cpp
+c:\users\eleanor\documents\visual studio 2015\projects\compare\compare\hk.cpp(9): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  compare.vcxproj -> C:\Users\Eleanor\Documents\Visual Studio 2015\Projects\compare\Debug\compare.exe
+  compare.vcxproj -> C:\Users\Eleanor\Documents\Visual Studio 2015\Projects\compare\Debug\compare.pdb (Partial PDB)
